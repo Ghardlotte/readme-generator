@@ -1,7 +1,7 @@
 # readme-generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-##Description
+## Description
 
 To generate a quality readme
 
@@ -11,7 +11,7 @@ To generate a quality readme
 
 *[Usage](#usage)
 
-*[License]#license)
+*[License](#license)
 
 *[Contributing](#contributing)
 
