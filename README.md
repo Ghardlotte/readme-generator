@@ -1,9 +1,9 @@
-# readme-generator
+# testing
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-To generate a quality readme
+testing new text
 
 ## Tabel of Contents
 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-Its open to public
+open
 
 ## License
       
@@ -49,4 +49,4 @@ npm test
 
 ## Qestions
 
-If you have questions about the repo, open an issue or contact me directly at Ghardlotte@gmail.com.  You can find more of my work at [Ghardlotte](https://github.com/Ghardlotte/).
+If you have questions about the repo, open an issue or contact me directly at g_hardlotte@hotmail.com.  You can find more of my work at [ghardlotte](https://github.com/ghardlotte/).
