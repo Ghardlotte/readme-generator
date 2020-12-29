@@ -46,6 +46,7 @@ To run tests, run the command:
 ```
 npm test
 ```
+Link to Demo vid https://github.com/Ghardlotte/e-commerce
 
 ## Qestions
 
